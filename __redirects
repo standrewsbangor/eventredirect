@@ -1,2 +1,6 @@
+# Redirect the root domain to the .org.uk site
+/  http://standrewsbangor.org.uk  301
+
+# Events
 /events/bereavement-journey  https://standrewspresbyterian.churchsuite.com/events/7uuz2hsv  301
 /events/community-fun-day    https://standrewspresbyterian.churchsuite.com/events/athlj3x8 301
